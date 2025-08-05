@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Entity Wise Mordern Flow")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This tool can be used to list down all the power automate flows according to entity.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CloudFlowTracker")]
+[assembly: AssemblyCompany("Beans IT")]
+[assembly: AssemblyProduct("Entity Wise Modern Flow")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
